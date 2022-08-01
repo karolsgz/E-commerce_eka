@@ -1,0 +1,17 @@
+.maquillaje__verProducto{
+    font-family: Raleway;
+    font-size: 2rem;
+    font-weight: 300;
+    color: #9D4EDD;
+    text-decoration: none;
+}
+@media screen and (max-width: 720px){
+    .maquillaje__verProducto{
+        font-size: 30px;
+    }
+  }
+@media screen and (max-width: 720px){
+    .maquillaje__verProducto{
+        font-size: 20px;
+    }
+  }

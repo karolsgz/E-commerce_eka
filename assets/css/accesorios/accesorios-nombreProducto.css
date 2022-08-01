@@ -1,0 +1,10 @@
+.accesorios__nombreProducto{
+    font-family: Raleway;
+    font-size: 2rem;
+    color: black;
+}
+@media screen and (max-width: 720px){
+    .accesorios__nombreProducto{
+        font-size: 20px;
+    }
+  }

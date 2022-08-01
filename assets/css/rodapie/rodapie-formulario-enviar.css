@@ -1,0 +1,11 @@
+.rodapie__formulario--enviar{
+    background-color: rgba(211, 115, 226, 0.38);
+    color: #9D4EDD;
+    cursor: pointer;
+    font-size: 1em;
+    font-weight: bold;
+}
+.rodapie__formulario--enviar:hover{
+    background:#9D4EDD;
+    color: rgba(235, 219, 238, 0.76);
+}

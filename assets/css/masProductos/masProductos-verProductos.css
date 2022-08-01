@@ -1,0 +1,12 @@
+.masProductos__verProducto{
+    font-family: Raleway;
+    font-size: 2rem;
+    font-weight: 300;
+    color: #9D4EDD;
+    text-decoration: none;
+}
+@media screen and (max-width: 720px){
+    .masProductos__verProducto{
+        font-size: 20px;
+    }
+  }

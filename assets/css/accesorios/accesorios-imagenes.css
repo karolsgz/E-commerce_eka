@@ -1,0 +1,28 @@
+.accesorios__imagenes--setCollar{
+    width: 370px;
+    height: 500px;
+}
+.accesorios__imagenes--balacas{
+    width: 370px;
+    height: 500px;
+}
+.accesorios__imagenes--balacasBrillantes{
+    width: 370px;
+    height: 500px;
+}
+.accesorios__imagenes--setAretes{
+    width: 370px;
+    height: 500px;
+}
+@media screen and (max-width: 1024px){
+    .accesorios__imagenes {
+        width: 230px;
+        height: 300px;
+    }
+  }
+@media screen and (max-width: 720px){
+    .accesorios__imagenes {
+      width: 130px;
+      height: 200px;
+    }
+  }

@@ -1,0 +1,10 @@
+.form__submit{
+    background: #fff;
+    color: #9D4EDD;
+    font-family: Raleway;
+    font-weight: 300;
+    font-size: 1rem;
+    padding: .8em 0;
+    border: none;
+    border-radius: .5em;
+}

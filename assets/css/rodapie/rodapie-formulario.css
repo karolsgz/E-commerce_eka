@@ -1,0 +1,27 @@
+.rodapie__formulario{
+    border: none;
+    display: grid;
+    font-family: Raleway;
+    gap: 1em;
+    grid-auto-columns: 100%;
+    margin-right: auto;
+    max-width: 700px;
+    padding: 1.5em 1.5em;
+    width: 90%;
+}
+.rodapie__formulario--titulo{
+    color: #9D4EDD;
+    font-weight: bold;
+}
+@media screen and (max-width: 1024px){
+  .rodapie__formulario {
+    padding: 1.5rem 1.5rem;
+    margin: 10px;
+  }
+}
+@media screen and (max-width: 720px){
+    .rodapie__formulario {
+      padding: 0.5rem 0.5rem;
+      margin: 10px;
+    }
+  }

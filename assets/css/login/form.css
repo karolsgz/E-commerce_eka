@@ -1,0 +1,10 @@
+.form{
+    background-color: #9D4EDD;
+    margin: auto;
+    width: 90%;
+    max-width: 400px;
+    padding: 4.5em 3em;
+    border-radius: 10px;
+    border-radius: 0 5px 10px -5px rgb(0 0 0 / 30%);
+    text-align: center;
+}

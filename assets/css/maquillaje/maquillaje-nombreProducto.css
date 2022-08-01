@@ -1,0 +1,10 @@
+.maquillaje__nombreProducto{
+    font-family: Raleway;
+    font-size: 2rem;
+    color: black;
+}
+@media screen and (max-width: 720px){
+    .maquillaje__nombreProducto{
+        font-size: 20px;
+    }
+  }

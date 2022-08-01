@@ -1,0 +1,17 @@
+.maquillaje{
+    display: flex;
+    padding: 2rem 3rem 2rem 2rem;
+    justify-content: space-around;
+}
+@media screen and (max-width: 1024px){
+    .maquillaje{
+        flex-wrap: wrap;
+    }
+  }
+@media screen and (max-width: 720px){
+    .maquillaje{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+  }

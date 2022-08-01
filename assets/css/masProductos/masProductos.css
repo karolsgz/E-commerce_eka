@@ -1,0 +1,17 @@
+.masProductos{
+    display: flex;
+    padding: 2rem 3rem 2rem 2rem;
+    justify-content: space-around;
+}
+@media screen and (max-width: 1024px){
+    .masProductos{
+        flex-wrap: wrap;
+    }
+  }
+@media screen and (max-width: 720px){
+    .masProductos{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+  }

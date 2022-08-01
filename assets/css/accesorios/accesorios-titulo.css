@@ -1,0 +1,10 @@
+.accesorios__titulo{
+    font-family: Raleway;
+    font-size: 2rem;
+    font-weight: bold;
+}
+@media screen and (max-width: 720px){
+    .accesorios__titulo{
+        font-size: 20px;
+    }
+  }

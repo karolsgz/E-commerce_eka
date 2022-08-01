@@ -1,0 +1,18 @@
+.social__media--icono{
+    display: inline-block;
+    margin-left: 20px;
+    width: 60px;
+    height: 60px;
+    border: 1px solid #fff;
+    border-radius: 50%;
+    text-align: center;
+    color: #9D4EDD;
+}
+.social__media--icono:hover{
+    background: #9D4EDD;
+    color: #fff;
+}
+.social__media--icono i{
+    font-size: 30px;
+    line-height: 60px;
+}

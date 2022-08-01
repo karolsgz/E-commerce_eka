@@ -1,0 +1,17 @@
+.rodapie__logo{
+    height: 11rem;
+    padding: 0rem 11rem;
+    width: 11rem;
+}
+@media screen and (max-width: 1024px){
+  .rodapie__logo {
+    height: 10rem;
+    width: 10rem;
+  }
+}
+@media screen and (max-width: 720px){
+    .rodapie__logo {
+      height: 7rem;
+      width: 7rem;
+    }
+  }

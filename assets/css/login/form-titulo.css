@@ -1,0 +1,10 @@
+.form__titulo{
+    font-size: 2rem;
+    margin-bottom: .5em;
+    color: #fff;
+}
+@media (max-width:425px){
+    .form__titulo{
+        font-size: 1.8rem;
+    }
+}

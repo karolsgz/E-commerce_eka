@@ -1,0 +1,29 @@
+.banner__titulo{
+    color: #fdfdfd;
+    font-family: Raleway;
+    font-size: 9rem;
+    position: absolute;
+    left: 50%;
+    text-align: center;
+    top: 50%;
+    text-shadow: 0 4px 4px rgba(0, 0, 0, 0.75);
+    width: 100%;
+    transform: translate(-50%, -50%);
+ }
+ @media screen and (max-width: 1024px){
+    .banner__titulo{
+        font-size: 4rem;
+        top: 33%;
+    }
+  }
+ @media screen and (max-width: 720px){
+    .banner__titulo{
+        font-size: 3rem;
+        position: absolute;
+        left: 50%;
+        top: 21%;
+        text-shadow: 0 4px 4px rgba(0, 0, 0, 0.75);
+        width: 100%;
+        transform: translate(-50%, -50%);
+    }
+  }

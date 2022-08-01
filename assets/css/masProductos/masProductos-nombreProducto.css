@@ -1,0 +1,10 @@
+.masProductos__nombreProducto{
+    font-family: Raleway;
+    font-size: 2rem;
+    color: black;
+}
+@media screen and (max-width: 720px){
+    .masProductos__nombreProducto{
+        font-size: 20px;
+    }
+  }

@@ -1,0 +1,13 @@
+.accesorios__verTodo {
+    font-family: Raleway;
+    font-weight: bold;
+    font-size: 2rem;
+    color: #9D4EDD;
+    text-decoration: none;
+}
+@media screen and (max-width: 720px){
+    .accesorios__verTodo{
+        padding: 11px 0px 0px 0px;
+        font-size: 20px;
+    }
+  }

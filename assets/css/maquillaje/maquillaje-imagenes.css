@@ -1,0 +1,28 @@
+.maquillaje__imagenes--labial{
+    width: 370px;
+    height: 500px;
+}
+.maquillaje__imagenes--encrespador{
+    width: 370px;
+    height: 500px;
+}
+.maquillaje__imagenes--tinta{
+    width: 370px;
+    height: 500px;
+}
+.maquillaje__imagenes--lapizCejas{
+    width: 370px;
+    height: 500px;
+}
+@media screen and (max-width: 1024px){
+    .maquillaje__imagenes {
+      width: 230px;
+      height: 300px;
+    }
+}
+@media screen and (max-width: 720px){
+    .maquillaje__imagenes {
+      width: 130px;
+      height: 200px;
+    }
+  }

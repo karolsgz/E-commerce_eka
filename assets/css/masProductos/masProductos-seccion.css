@@ -1,0 +1,11 @@
+.masProductos__seccion{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 28px 54px 0 54px;
+}
+@media screen and (max-width: 720px){
+    .masProductos__seccion{
+        padding: 5px;
+    }
+  }

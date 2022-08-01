@@ -1,0 +1,15 @@
+.logo {
+    width: 10rem;
+}
+@media screen and (max-width: 1024px) {
+    .logo {
+        width: 7rem;
+    }
+    
+    }
+@media screen and (max-width: 720px) {
+.logo {
+    width: 5rem;
+}
+
+}

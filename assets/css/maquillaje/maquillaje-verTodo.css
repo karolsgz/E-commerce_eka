@@ -1,0 +1,19 @@
+.maquillaje__verTodo {
+    font-family: Raleway;
+    font-weight: bold;
+    font-size: 2rem;
+    color: #9D4EDD;
+    text-decoration: none;
+}
+@media screen and (max-width: 1024px){
+    .maquillaje__verTodo{
+        padding: 11px 0px 0px 0px;
+        font-size: 30px;
+    }
+  }
+@media screen and (max-width: 720px){
+    .maquillaje__verTodo{
+        padding: 11px 0px 0px 0px;
+        font-size: 20px;
+    }
+  }

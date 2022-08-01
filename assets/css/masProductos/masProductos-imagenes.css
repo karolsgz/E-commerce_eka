@@ -1,0 +1,28 @@
+.masProductos__imagenes--esfero{
+    width: 370px;
+    height: 500px;
+}
+.masProductos__imagenes--separador{
+    width: 370px;
+    height: 500px;
+}
+.masProductos__imagenes--borradores{
+    width: 370px;
+    height: 500px;
+}
+.masProductos__imagenes--cartera{
+    width: 370px;
+    height: 500px;
+}
+@media screen and (max-width: 1024px){
+    .masProductos__imagenes {
+      width: 230px;
+      height: 300px;
+    }
+  }
+@media screen and (max-width: 720px){
+    .masProductos__imagenes {
+      width: 130px;
+      height: 200px;
+    }
+  }

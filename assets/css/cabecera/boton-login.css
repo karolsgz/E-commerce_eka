@@ -1,0 +1,18 @@
+.boton__login {
+    color: #fdfdfd;
+    background-color: #9D4EDD;
+    border-radius: 7px;
+    font-family: Raleway;
+    text-align: center;
+    text-decoration: none;
+    padding: 15px 35px;
+    width: 50px;
+}
+@media screen and (max-width: 720px) {
+.boton__login {
+   padding: 10px 25px;
+   display: flex;
+   justify-content: space-around;
+}
+
+}
